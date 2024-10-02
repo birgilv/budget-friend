@@ -1,0 +1,22 @@
+The Smith's budgets May 2023
+
+#17th May celebration,A budget for a family celebration,1,3000.0
+Decorations,200.0
+Lunch,2000.0
+Ice-cream,100.0
+Drinks,200.0
+
+#Conformation,A budget for the confirmation for the oldest child,1,5000.0
+Decorations,300.0
+Location,1000.0
+Dinner,3000.0
+Drinks,500.0
+
+#Weekly allowance,A budget for the monthly allowance for both children,31,2000.0
+Oldest child,1200.0
+Youngest child,8000.0
+
+#Food,A budget for the food of the month,31,6000.0
+Groceries,4000.0
+Restaurants,1000.0
+Spontaneous shopping,500.0

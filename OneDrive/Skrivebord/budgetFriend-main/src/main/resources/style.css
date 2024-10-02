@@ -1,0 +1,75 @@
+.root{
+    -fx-background-color: lightgrey;
+    -fx-font-size: 11pt;
+}
+
+.label{
+    -fx-text-fill: black;
+}
+
+.button{
+    -fx-background-color: linear-gradient(darkgreen, green);
+    -fx-background-radius: 20;
+    -fx-text-fill: white;
+    -fx-pref-height: 50;
+    -fx-pref-width: 200;
+}
+.button:hover{
+    -fx-background-color: linear-gradient(green, darkgreen);
+    -fx-text-fill: white;
+
+}
+
+.text-area{
+    -fx-background-color: white;
+    -fx-background-radius: 0;
+}
+
+.welcomeLabel{
+    -fx-font-size: 20px;
+    -fx-font-weight: 700;
+}
+
+.topBar{
+    -fx-background-image: url("/BUDGETFRIEND.png");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
+
+.deleteButton{
+    -fx-background-color: red;
+    -fx-pref-height: 5;
+    -fx-pref-width: 5;
+}
+
+.deleteButton:hover{
+    -fx-background-color: darkred;
+
+}
+
+#startButtons{
+    -fx-background-color: linear-gradient(darkgreen, green);
+    -fx-background-radius: 20;
+    -fx-text-fill: white;
+    -fx-pref-height: 200;
+    -fx-pref-width: 200;
+}
+
+#startButtons:hover{
+    -fx-background-color: linear-gradient(green, darkgreen);
+    -fx-text-fill: white;
+
+}
+
+#helpButton{
+    -fx-background-color: orange;
+    -fx-pref-height: 5;
+    -fx-pref-width: 5;
+    -fx-text-fill: black;
+}
+
+#helpButton:hover{
+    -fx-background-color: darkorange;
+    -fx-pref-height: 7;
+    -fx-pref-width: 7;
+}
